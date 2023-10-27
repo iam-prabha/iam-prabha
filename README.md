@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/velprabbha96" target="blank"><img src="https://img.shields.io/twitter/follow/velprabbha96?logo=twitter&style=for-the-badge" alt="velprabbha96" /></a> </p>
 
-- 🌱 I’m currently learning Full stack web development **In frontend like HTML5,CSS,JAVASCRIPT,BOOTSTRAP**
+- 🌱 I’m currently learning Full stack web development **In frontend like HTML5,CSS,JAVASCRIPT,BOOTSTRAP and UI/UX Principals**
 
 - 📫 How to reach me **Velprbhakaran2@gmail.com**
 
