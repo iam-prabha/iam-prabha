@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/velprabbha96" target="blank"><img src="https://img.shields.io/twitter/follow/velprabbha96?logo=twitter&style=for-the-badge" alt="velprabbha96" /></a> </p>
 
-- 🌱 I’m currently learning MERN Stack With **Strong foundation in Front-end development and backend as well**
+- 🌱 I’m currently learning MERN Stack backend With **Strong foundation in Front-end development**
 
 - 📫 How to reach me **Velprbhakaran2@gmail.com**
 
