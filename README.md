@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning MERN Stack backend With **Strong foundation in Front-end development**
 
-- 📫 How to reach me **Velprbhakaran2@gmail.com**
+- 📫 How to reach me **dev.vpcode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
