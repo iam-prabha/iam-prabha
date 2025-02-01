@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Velprabhakaran Baskar</h1>
-<h3 align="center">Build. Deploy. Repeat. Full Stack Development</h3>
+<h3 align="center">Turning data into insights, one algorithm at a time!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iam-prabha&label=Profile%20Views&color=brightgreen&style=flat-square" alt="irohandev" />
+  <img src="https://komarev.com/ghpvc/?username=iam-prabha&label=Profile%20Views&color=brightgreen&style=flat-square" alt="iam-prabha" />
 </p>
 
-- 🌱 I’m currently learning Full stack development With **Strong foundation in end-end development**
+- 🌱 I’m currently learning Data scientist
 - 📫 How to reach me **dev.vpcode@gmail.com**
 
 ---
