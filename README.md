@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning Data scientist
-- 📫 How to reach me **dev.vpcode@gmail.com**
+- 📫 How to reach me **vel.prabhakaran.ds@gmail.com**
 
 ---
 
