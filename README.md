@@ -6,7 +6,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </h3>
 
-- 🌱 I’m currently learning Data scientist
+- 🌱 I’m Speed Runner Data scientist
 - 📫 How to reach me **vel.prabhakaran.ds@gmail.com**
 
 ---
