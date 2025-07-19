@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=iam-prabha&label=Profile%20Views&color=brightgreen&style=flat-square" alt="iam-prabha" />
 </p>
 
-- 🌱 I’m Speed Runner Data scientist
+- 🌱 Data science and AI
 - 📫 How to reach me **vel.prabhakaran.ds@gmail.com**
 
 ---
