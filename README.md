@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=iam-prabha&label=Profile%20Views&color=brightgreen&style=flat-square" alt="iam-prabha" />
 </p>
 
-- 🌱 AI/ML Engineering
+- 🌱 AI/ML Engineering + Full stack development
 - 📫 How to reach me **vel.prabhakaran.ds@gmail.com**
 
 ---
