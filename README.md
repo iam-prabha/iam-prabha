@@ -56,14 +56,16 @@ Passionate AI/ML Engineer and DevOps Specialist with expertise in building scala
 ## 📈 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-prabha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=iam-prabha&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-prabha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-prabha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=iam-prabha&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-prabha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 </div>
+
+> **Note:** GitHub stats may take a few moments to load. If stats don't display, visit my [GitHub profile](https://github.com/iam-prabha) directly.
 
 ---
 
@@ -91,7 +93,7 @@ Currently exploring opportunities in:
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=iam-prabha&icon=2&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=iam-prabha&color=blueviolet&style=flat-square)
 
 **"Building intelligent systems that scale"**
 
