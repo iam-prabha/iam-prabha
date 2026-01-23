@@ -65,10 +65,10 @@ I build AI solutions that run smoothly in the cloud. As an AI Engineer, I create
 ## 📈 GitHub Analytics
 
 <div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-prabha&theme=tokyonight&hide_border=true&include_all_commits=false&show_icons=true)](https://github.com/iam-prabha)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-prabha&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true)](https://github.com/iam-prabha)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iam-prabha&theme=tokyonight&hide_border=true)](https://github.com/iam-prabha)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=iam-prabha&theme=tokyonight&hide_border=true)](https://github.com/iam-prabha)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-prabha&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact&langs_count=8)](https://github.com/iam-prabha)
 
