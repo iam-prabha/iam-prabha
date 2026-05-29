@@ -1,6 +1,6 @@
 # Hi folks, I'm Velprabhakaran Baskar
 
-**AI Engineer & Product Manager**
+**AI Engineer & Architect**
 
 Building intelligent systems at the intersection of AI and product.
 
