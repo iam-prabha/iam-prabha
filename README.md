@@ -1,10 +1,10 @@
 # Hi folks, I'm Velprabhakaran Baskar
 
-**AI Engineer & Architect**
+**AI Engineer & Product Manager**
 
 Building intelligent systems at the intersection of AI and product.
 
-![Profile Views](https://komarev.com/ghpvc/?username=iam-prabha&style=flat-square)
+[![Profile Views](https://komarev.com/ghprofile/?username=iam-prabha&style=flat&color=blue&label=PROFILE+VIEWS)](https://github.com/iam-prabha)
 
 ## Focus
 
@@ -21,9 +21,9 @@ Building intelligent systems at the intersection of AI and product.
 
 ## Tech Stack
 
-**AI/ML** — Mastra, LangChain, LangGraph, AI Integration, Vector Databases
+**AI/ML** — Mastra, LangChain, LangGraph, LLMs API, Vector Databases
 **Backend** — Express, PostgreSQL, MongoDB  
-**Frontend** — TypeScript, React, Next.js
+**Frontend** — React, TypeScript, Next.js  
 **Infrastructure** — Docker, GCP
 
 ## Connect
@@ -31,4 +31,4 @@ Building intelligent systems at the intersection of AI and product.
 - [LinkedIn](https://linkedin.com/in/iamprabha)
 - [Email](mailto:vel.prabhakaran.ds@gmail.com)
 - [GitHub](https://github.com/iam-prabha)
-- [X](https://x.com/iamprabha0)
+- [X](https://x.com/velprabbha96)
