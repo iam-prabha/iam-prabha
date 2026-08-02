@@ -21,7 +21,7 @@ Building intelligent systems at the intersection of AI and product.
 
 ## Tech Stack
 
-**AI/ML** — Mastra, LangChain, LangGraph, LLMs API, Vector Databases
+**AI/ML** — Mastra, LangChain, LangGraph, LLMs API, Vector Databases  
 **Backend** — Express, PostgreSQL, MongoDB  
 **Frontend** — React, TypeScript, Next.js  
 **Infrastructure** — Docker, GCP
