@@ -21,14 +21,14 @@ Building intelligent systems at the intersection of AI and product.
 
 ## Tech Stack
 
-**AI/ML** — Python, LangChain, LangGraph, LLMs API, Vector Databases  
-**Backend** — FastAPI, PostgreSQL, MongoDB  
-**Frontend** — React, TypeScript  
-**Infrastructure** — Docker, AWS
+**AI/ML** — Mastra, LangChain, LangGraph, AI Integration, Vector Databases
+**Backend** — Express, PostgreSQL, MongoDB  
+**Frontend** — TypeScript, React, Next.js
+**Infrastructure** — Docker, GCP
 
 ## Connect
 
 - [LinkedIn](https://linkedin.com/in/iamprabha)
 - [Email](mailto:vel.prabhakaran.ds@gmail.com)
 - [GitHub](https://github.com/iam-prabha)
-- [X](https://x.com/velprabbha96)
+- [X](https://x.com/iamprabha0)
