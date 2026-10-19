@@ -1,14 +1,15 @@
-# Hi folks, I'm Velprabhakaran Baskar
+# Hi, I'm Velprabhakaran Basker 👋
 
-**AI Engineer | Full-Stack Engineer**
+**AI Product Manager · Technical Entrepreneur · Builder**
 
-Building intelligent systems at the intersection of AI and product.
+I spot operational bottlenecks and build AI-powered systems that eliminate them. I own the work
+end-to-end scoping the problem, shipping the solution, and running it in production.
 
-## Focus
-
-- AI Agents & LLM Applications
-- Product Strategy & Development
-- Full-Stack Engineering
+### 🛠 Core Focus & Stack
+  - **Focus:** AI Workflow Automation, Agentic Systems, RAG Architectures, Product Scoping &
+  Execution
+  - **Tech:** Python, TypeScript, LangGraph, LangChain, Next.js, FastAPI, PostgreSQL, Qdrant, Docker,
+  Rust
 
 ## Interests
 
@@ -17,16 +18,8 @@ Building intelligent systems at the intersection of AI and product.
 - Product Development & Growth
 - Nanotechnology Technology & Game Development
 
-## Tech Stack
-
-**AI/ML** — AI SDK, LangChain, LangGraph, LLMs API Integration, Vector Databases  
-**Backend** — Express, PostgreSQL, MongoDB  
-**Frontend** — React, TypeScript, Next.js  
-**Infrastructure** — Docker, GCP
-
 ## Connect
 
 - [LinkedIn](https://linkedin.com/in/iamprabha)
 - [Email](mailto:vel.prabhakaran.ds@gmail.com)
-- [GitHub](https://github.com/iam-prabha)
-- [X](https://x.com/velprabbha96)
+- [X](https://x.com/iamprabha0)
