@@ -1,15 +1,17 @@
 # Hi, I'm Velprabhakaran Basker 👋
+    
+**AI Product Engineer · Technical Entrepreneur · Full-Stack Builder**
+    
+I bridge engineering and product by building AI-powered systems that eliminate high-friction
+business bottlenecks. I own software end-to-end from architecting multi-agent RAG pipelines
+to shipping clean, production-ready interfaces people actually use.
 
-**AI Product Manager · Technical Entrepreneur · Builder**
+### 🛠️ Core Focus & Stack
 
-I spot operational bottlenecks and build AI-powered systems that eliminate them. I own the work
-end-to-end scoping the problem, shipping the solution, and running it in production.
-
-### 🛠 Core Focus & Stack
-  - **Focus:** AI Workflow Automation, Agentic Systems, RAG Architectures, Product Scoping &
-  Execution
-  - **Tech:** Python, TypeScript, LangGraph, LangChain, Next.js, FastAPI, PostgreSQL, Qdrant, Docker,
-  Rust
+- **AI & Systems:** Multi-Agent Orchestration (AI SDK,LangGraph), Production RAG, Semantic Search,
+pgvector
+- **Full-Stack & Cloud:** TypeScript, Python, Next.js, React, FastAPI, PostgreSQL, Docker,
+Rust
 
 ## Interests
 
@@ -18,8 +20,8 @@ end-to-end scoping the problem, shipping the solution, and running it in product
 - Product Development & Growth
 - Nanotechnology Technology & Game Development
 
-## Connect
-
-- [LinkedIn](https://linkedin.com/in/iamprabha)
-- [Email](mailto:vel.prabhakaran.ds@gmail.com)
-- [X](https://x.com/iamprabha0)
+ ### 📬 Connect
+- **Portfolio:** https://iamprabha.vercel.app/
+- **LinkedIn:** https://linkedin.com/in/iamprabha
+- **X:** [@iamprabha0](https://x.com/iamprabha0)
+- **Email:** vel.prabhakaran.ds@gmail.com
